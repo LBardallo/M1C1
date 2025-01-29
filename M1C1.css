@@ -1,0 +1,9 @@
+#gridFourTwo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: green;
+}
+
+.gridFourOne {
+    background-color: green;
+}
